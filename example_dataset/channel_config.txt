@@ -1,0 +1,10 @@
+channel_count	7
+trodality	1
+channel_map
+1	1	eeg_parietal_right	FP
+2	1	eeg_frontal_left	FP
+3	1	lfp_vms_right	FP
+4	1	eeg_parietal_left	FP
+5	1	accel_x	FP
+6	1	accel_y	FP
+7	1	accel_z	FP
