@@ -1,7 +1,7 @@
 # WUCSS
 
 [![Project Status: Active - The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
-[![Last Commit](https://img.shields.io/github/last-commit/Roche/WUCSS/master?style=flat-square)](https://github.com/Roche/WUCSS/commits/master)
+[![Last Commit](https://img.shields.io/github/last-commit/Roche/WUCSS/main?style=flat-square)](https://github.com/Roche/WUCSS/commits/main)
 [![Python Version](https://img.shields.io/badge/python-3.8-blue)](README.md)
 [![License](https://img.shields.io/badge/license-Apache--2.0-green)](LICENSE)
 
