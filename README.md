@@ -46,7 +46,7 @@ It has the following required dependencies:
 - [functools](https://pypi.org/project/functools/)
 - [seaborn](https://pypi.org/project/seaborn/)
 
-We further provide a .yml file to quickly set up the Python environment for the module ([.yml file](python_environment/wucss_env.yml)). The file contains all the Python libraries required for the module.
+We further provide a .yml file to quickly set up the Python environment for the module ([.yml file](wucss_env.yml)). The file contains all the Python libraries required for the module.
 
 We recommend using the [Anaconda](https://www.anaconda.com/download-2) distribution to manage these requirements.
 
@@ -70,7 +70,9 @@ This repository runs on the example dataset. The steps to get the module to run 
 4) View results 
     * [WUCSS Cluster](results/Cntnap001_200504_wucss_qc.png)
     * [WUCSS Hypnogram](results/Hypnogram.png) 
-    * [WUCSS Epochs](results/start_and_ends_intervals.csv) 
+    * [WUCSS Epochs](results/start_and_ends_intervals.csv)
+      
+**Note**: the example file is quite heavy (around 500 MB), as it represents a 24-hour recording. So both downloading and running the example will take some time, around 10-20 minutes depending on your PC.
 
 ## <a id="license"></a> License 
 
